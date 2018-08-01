@@ -1,8 +1,4 @@
----
-description: We are a super service
----
-
-# README
+# Introduction
 
 ## Getting Super Powers
 
