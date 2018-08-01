@@ -1,4 +1,4 @@
-# opportunities
+# Introduction
 
 This section is used to share opportunities \(scholarships, fellowships, grants, competitions, conferences, etc...\)
 
