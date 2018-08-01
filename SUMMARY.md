@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * [Articles](articles.md)
+* [Opportunities](opportunities.md)
 
