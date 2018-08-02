@@ -2,7 +2,7 @@
 
 - [Introduction](README.md)
 
-- [Education](education/introduction.md)
+- [Education](education/education.md)
     - [Universities](education/universities.md)
     - [Leadership](education/leadership.md)
     - [Computer science](education/computer-science.md)
