@@ -1,4 +1,4 @@
-# Schools & Universities
+# Schools and Universities
 
 ## [African Leadership Academy](http://www.africanleadershipacademy.org/fr/)
 ## [Bride 2 Rwanda](https://www.bridge2rwanda.org/)
