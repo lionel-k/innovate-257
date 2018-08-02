@@ -1,6 +1,6 @@
 This section is used to share useful platforms where to find opportunities such as \(scholarships, fellowships, grants, competitions, conferences, etc...\)
 
-## [Opportunity Desk](http://www.opportunitydesk.org/)
+### [Opportunity Desk](http://www.opportunitydesk.org/)
 
 {% hint style="info" %}
 Opportunity Desk \(OD\) is an online platform that bridges the gap to education by sharing information on relevant learning and growth opportunities for youth around the world.
