@@ -4,6 +4,8 @@
 
 - [Education](education/introduction.md)
     - [Universities](education/universities.md)
+    - [Leadership](education/leadership.md)
+    - [Computer science](education/computer-science.md)
 
 
 - [Economy](economy/introduction.md)
