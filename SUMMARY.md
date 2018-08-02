@@ -6,6 +6,7 @@
     - [Universities](education/universities.md)
     - [Leadership](education/leadership.md)
     - [Computer science](education/computer-science.md)
+    - [Talks](education/talks.md)
 
 
 - [Economy](economy/introduction.md)
