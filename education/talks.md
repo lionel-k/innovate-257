@@ -1,6 +1,6 @@
 # Talks
 
-## [Fmr. President Barack Obama Speaks At Mandela Day](http://www.youtube.com/watch?v=XkHjrKDrhjg)
+#### [Fmr. President Barack Obama Speaks At Mandela Day](http://www.youtube.com/watch?v=XkHjrKDrhjg)
 
 **Barack Obama - July 17th, 2018**
 
@@ -10,7 +10,7 @@ In his first major speech since leaving public office, former President Barack O
 
 [![](http://img.youtube.com/vi/XkHjrKDrhjg/0.jpg)](http://www.youtube.com/watch?v=XkHjrKDrhjg)
 
-## [The leaders who ruined Africa, and the generation who can fix it](http://www.youtube.com/watch?v=kcEIsbO0ivA)
+#### [The leaders who ruined Africa, and the generation who can fix it](http://www.youtube.com/watch?v=kcEIsbO0ivA)
 
 **Fred Swaniker - October 2014**
 
