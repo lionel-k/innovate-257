@@ -9,18 +9,18 @@
     - [Talks](education/talks.md)
 
 
-- [Economy](economy/introduction.md)
+- [Economy](economy/economy.md)
 
 
-- [Politics](politics/introduction.md)
+- [Politics](politics/politics.md)
 
 
-- [Energy](energy/introduction.md)
+- [Energy](energy/energy.md)
 
 
-- [Agriculture](agriculture/introduction.md)
+- [Agriculture](agriculture/agriculture.md)
 
-- [Health](health/introduction.md)
+- [Health](health/health.md)
 
 - [Articles](articles.md)
 - [Opportunities](opportunities.md)
