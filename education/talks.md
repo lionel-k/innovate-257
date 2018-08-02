@@ -1,8 +1,7 @@
 # Talks
 
 #### Fmr. President Barack Obama Speaks At Mandela Day
-** Barack Obama **
-*July 17th, 2018*
+**Barack Obama - July 17th, 2018**
 
 In his first major speech since leaving public office, former President Barack Obama is delivering the 2018 Nelson Mandela Annual Lecture in Johannesburg, South Africa.
 
