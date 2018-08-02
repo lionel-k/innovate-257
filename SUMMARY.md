@@ -9,7 +9,6 @@
   * [Opportunities](education/opportunities.md)
 * [Economy](economy.md)
 * [Articles](articles.md)
-* [Opportunities](opportunities.md)
 * [Politics](politics.md)
 * [Energy](energy.md)
 * [Agriculture](agriculture.md)
