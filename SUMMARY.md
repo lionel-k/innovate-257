@@ -12,7 +12,7 @@
 * [Economy](economy/README.md)
   * [Articles](economy/articles.md)
 * [Politics](politics/README.md)
-  * [Politics](politics/talks.md)
+  * [Talks](politics/talks.md)
 * [Energy](energy.md)
 * [Agriculture](agriculture.md)
 * [Health](health.md)
