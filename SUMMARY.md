@@ -9,6 +9,7 @@
   * [Opportunities](education/opportunities.md)
   * [Massive Open Online Course](education/moocs.md)
   * [Data Science](education/data.md)
+  * [Articles](education/articles.md)
 * [Economy](economy/README.md)
   * [Articles](economy/articles.md)
 * [Politics](politics/README.md)
