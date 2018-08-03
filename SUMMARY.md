@@ -7,6 +7,7 @@
   * [Computer Science](education/computer-science.md)
   * [Talks](education/talks.md)
   * [Opportunities](education/opportunities.md)
+  * [Massive Open Online Course](education/moocs.md)
 * [Economy](economy.md)
 * [Politics](politics.md)
 * [Energy](energy.md)
