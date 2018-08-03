@@ -4,7 +4,7 @@
 **Pr Abletor Sedofia, University of Ghana**
 
 {% hint style="info" %}
-"Academic excellence is overrated!" Did I just say that? Oh, yes, I said it. Being top of your class does not necessarily guarantee that you will be at the top of life
+_Academic excellence is overrated!_ Did I just say that? Oh, yes, I said it. Being top of your class does not necessarily guarantee that you will be at the top of life
 {% endhint %}
 
 
@@ -19,5 +19,5 @@ Machine Intelligence (MI) is revolutionizing critical aspects of our lives. It e
 **[Belyse INAMAHORO](https://medium.com/@belyseinamahoro)**
 
 {% hint style="info" %}
-The contract. “You signed an agreement that you will be returning home after you graduate.”, “You promised you will come back with your skills, disrupt and innovate in Africa and lead the continent into a new era.” says your government, your scholarship donor, or the third-party that helped you get that scholarship. But why do I have to return home on their terms and conditions?
+The contract. _You signed an agreement that you will be returning home after you graduate._, _You promised you will come back with your skills, disrupt and innovate in Africa and lead the continent into a new era._ says your government, your scholarship donor, or the third-party that helped you get that scholarship. But why do I have to return home on their terms and conditions?
 {% endhint %}
