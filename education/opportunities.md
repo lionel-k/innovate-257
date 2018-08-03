@@ -1,5 +1,18 @@
 This section is used to share useful platforms where to find opportunities such as \(scholarships, fellowships, grants, competitions, conferences, etc...\)
 
+### [Knight-Hennessy Scholars - Stanford University](https://knight-hennessy.stanford.edu/)
+
+{% hint style="info" %}
+Knight-Hennessy Scholars develops a community of future global leaders to address complex challenges through collaboration and innovation. Every year, up to 100 high-achieving students from around the world will receive full funding to pursue any graduate degree at Stanford, including the JD, MA, MBA, MD, MFA, MS, and PhD programs, as well as joint- and dual-degrees. Knight-Hennessy Scholars is the largest fully endowed scholars program in the world.
+{% endhint %}
+
+
+### [Champions of Science Africa Storytelling Challenge](https://www.jnjinnovation.com/africa-storytelling-challenge/)
+
+{% hint style="info" %}
+We are calling on all scientists and innovators in Africa to showcase their stories. By amplifying the stories of scientific innovation taking place across Africa and the impact it is having on families, communities and the world, we hope to build public engagement and support for science, and inspire Africa’s young women and men to pursue careers in science and innovation.{% endhint %}
+
+
 ### [Opportunity Desk](http://www.opportunitydesk.org/)
 
 {% hint style="info" %}
@@ -14,8 +27,3 @@ diversitytickets.org is a Travis Foundation app which helps conference organiser
 {% endhint %}
 
 
-### [Knight-Hennessy Scholars - Stanford University](https://knight-hennessy.stanford.edu/)
-
-{% hint style="info" %}
-Knight-Hennessy Scholars develops a community of future global leaders to address complex challenges through collaboration and innovation. Every year, up to 100 high-achieving students from around the world will receive full funding to pursue any graduate degree at Stanford, including the JD, MA, MBA, MD, MFA, MS, and PhD programs, as well as joint- and dual-degrees. Knight-Hennessy Scholars is the largest fully endowed scholars program in the world.
-{% endhint %}
