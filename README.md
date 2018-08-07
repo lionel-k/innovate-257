@@ -1,4 +1,5 @@
 ## Who are we ?
+Innovate 257 is a network of professionals and students in the domains of Science, Engineering, Technology, and Math aspiring to bring innovation in Burundi through collaboration, mentorship, and initiative.
 
 ## Why do we do what we do ?
 We believe in empowering a Burundian youth that will take responsibility for the development of their country.
@@ -23,3 +24,6 @@ We believe in empowering a Burundian youth that will take responsibility for the
 This platform is mainly for education access, mentorship, personal development, career prep, and a carrefour for opportunities destined for Burundian students and young professionals.
 
 ## How can you contribute ?
+Are you a student or professional in Science, Engineering, Technology and Math? Do you want to be at the forefront of Innovation in your field and use your skills to develop Burundi? Do you want to be part of a network of high-achieving, motivated and innovating group of Burundian students and professionals? Then, you should join Innovate 257.
+
+Fill out [this form](https://goo.gl/forms/5S1PQclwghB2kKhi2):  and get access to a vibrant community of innovators, leaders, entrepreneurs excited to bring change in their community.
