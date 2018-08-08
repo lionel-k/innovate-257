@@ -27,3 +27,12 @@ This platform is mainly for education access, mentorship, personal development, 
 Are you a student or professional in Science, Engineering, Technology and Math? Do you want to be at the forefront of Innovation in your field and use your skills to develop Burundi? Do you want to be part of a network of high-achieving, motivated and innovating group of Burundian students and professionals? Then, you should join Innovate 257.
 
 Fill out [this form](https://goo.gl/forms/5S1PQclwghB2kKhi2):  and get access to a vibrant community of innovators, leaders, entrepreneurs excited to bring change in their community.
+
+## Contribution to this repository
+
+* Fork
+* Clone
+* Create a branch for your edits
+* Make a Pull Request
+
+You can go through this [guide](https://opensource.guide/how-to-contribute/#opening-a-pull-request) to understand what all this means. Thanks in advance for your contribution.
