@@ -28,7 +28,9 @@ Are you a student or professional in Science, Engineering, Technology and Math? 
 
 Fill out [this form](https://goo.gl/forms/5S1PQclwghB2kKhi2):  and get access to a vibrant community of innovators, leaders, entrepreneurs excited to bring change in their community.
 
-## Contribution to this repository
+## Contribution to this Gitbook
+
+You can contribute to this book by submit your contribution through directly on our GitHub repository. For this you will need to:
 
 * Fork
 * Clone
