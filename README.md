@@ -30,7 +30,7 @@ Fill out [this form](https://goo.gl/forms/5S1PQclwghB2kKhi2):  and get access to
 
 ## Contribution to this Gitbook
 
-You can contribute to this book by submit your contribution directly to our GitHub repository. For this you will need to:
+You can contribute to this book by submit your contribution directly to our [GitHub repository](https://github.com/lionel-k/innovate-257). For this you will need to:
 
 * Fork
 * Clone
