@@ -6,6 +6,12 @@ IWACU Open Data, initiated and developed by IWACU Press Group, aims to provide o
 {% endhint %}
 
 
+## [Ibrahim Index of African Governance](http://iiag.online/)
+{% hint style="info" %}
+The Ibrahim Index of African Governance (IIAG) is a tool that measures and monitors governance performance in African countries.
+{% endhint %}
+
+
 ## [Gapminder](https://www.gapminder.org/tools/#$chart-type=bubbles)
 {% hint style="info" %}
 Gapminder is an independent Swedish foundation with no political, religious or economic affiliations. Gapminder is a fact tank, not a think tank. Gapminder fights devastating misconceptions about global development. Gapminder produces free teaching resources making the world understandable based on reliable statistics. Gapminder promotes a fact-based worldview everyone can understand.  Gapminder collaborates with universities, UN, public agencies and non-governmental organizations. All Gapminder activities are governed by the board. We do not award grants. Gapminder Foundation is registered at Stockholm County Administration Board.
