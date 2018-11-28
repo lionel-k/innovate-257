@@ -9,4 +9,3 @@ Before he hit eighteen, Fred Swaniker had lived in Ghana, Gambia, Botswana and Z
 {% endhint %}
 
 [![](http://img.youtube.com/vi/kcEIsbO0ivA/0.jpg)](http://www.youtube.com/watch?v=kcEIsbO0ivA)
-
