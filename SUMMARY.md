@@ -15,7 +15,7 @@
   * [Massive Open Online Course](education/moocs.md)
   * [Data Science](education/data.md)
   * [Articles](education/articles.md)
-* [Fellowishs](fellowishps/README.md)
+* [Fellowishs](fellowishps/fellowships.md)
 * [Politics](politics/README.md)
   * [Talks](politics/talks.md)
 * [Energy](energy.md)
