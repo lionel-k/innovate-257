@@ -15,6 +15,7 @@
 * [Politics](politics/README.md)
   * [Talks](politics/talks.md)
 * [Energy](energy.md)
-* [Agriculture](agriculture.md)
+* [Agriculture](agriculture/README.md)
+  * [Talks](agriculture/talks.md)
 * [Health](health.md)
 
