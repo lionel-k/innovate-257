@@ -1,4 +1,4 @@
-# MOOCS
+# Massive Open Online Course
 
 ## [Coursera](https://coursera.org)
 
@@ -11,3 +11,4 @@
 ## [Udemy](https://udemy.com)
 
 ## [Khan Academy](https://www.khanacademy.org/)
+
