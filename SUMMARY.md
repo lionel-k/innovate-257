@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Agriculture](agriculture/README.md)
+  * [Talks](agriculture/talks.md)
+* [Conferences](conferences/README.md)
+* [Economy](economy/README.md)
+  * [Articles](economy/articles.md)
 * [Education](education/README.md)
   * [Schools & Universities](education/universities.md)
   * [Leadership](education/leadership.md)
@@ -10,12 +15,8 @@
   * [Massive Open Online Course](education/moocs.md)
   * [Data Science](education/data.md)
   * [Articles](education/articles.md)
-* [Economy](economy/README.md)
-  * [Articles](economy/articles.md)
+* [Fellowishs](fellowishps/README.md)
 * [Politics](politics/README.md)
   * [Talks](politics/talks.md)
 * [Energy](energy.md)
-* [Agriculture](agriculture/README.md)
-  * [Talks](agriculture/talks.md)
 * [Health](health.md)
-

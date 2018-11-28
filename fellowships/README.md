@@ -1,6 +1,5 @@
 # Fellowships
 
-
 ## [Harambe Entrepreneur Alliance](www.harambeans.com/)
 
 {% hint style="info" %}
