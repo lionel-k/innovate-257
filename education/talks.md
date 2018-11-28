@@ -1,6 +1,6 @@
 # Talks
 
-#### [The leaders who ruined Africa, and the generation who can fix it](http://www.youtube.com/watch?v=kcEIsbO0ivA)
+## [The leaders who ruined Africa, and the generation who can fix it](http://www.youtube.com/watch?v=kcEIsbO0ivA)
 
 **Fred Swaniker - October 2014**
 
@@ -9,3 +9,4 @@ Before he hit eighteen, Fred Swaniker had lived in Ghana, Gambia, Botswana and Z
 {% endhint %}
 
 [![](http://img.youtube.com/vi/kcEIsbO0ivA/0.jpg)](http://www.youtube.com/watch?v=kcEIsbO0ivA)
+

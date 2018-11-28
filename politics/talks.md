@@ -1,6 +1,6 @@
 # Talks
 
-#### [Fmr. President Barack Obama Speaks At Mandela Day](http://www.youtube.com/watch?v=XkHjrKDrhjg)
+## [Fmr. President Barack Obama Speaks At Mandela Day](http://www.youtube.com/watch?v=XkHjrKDrhjg)
 
 **Barack Obama - July 17th, 2018**
 
@@ -9,3 +9,4 @@ In his first major speech since leaving public office, former President Barack O
 {% endhint %}
 
 [![](http://img.youtube.com/vi/XkHjrKDrhjg/0.jpg)](http://www.youtube.com/watch?v=XkHjrKDrhjg)
+

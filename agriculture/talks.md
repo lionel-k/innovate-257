@@ -1,6 +1,6 @@
 # Talks
 
-#### [3 reasons why we can win the fight against poverty](https://www.youtube.com/watch?v=wlR1ojoiue0)
+## [3 reasons why we can win the fight against poverty](https://www.youtube.com/watch?v=wlR1ojoiue0)
 
 **Andrew Youn - February 2016**
 
@@ -9,3 +9,4 @@ Half of the world's poorest people have something in common: they're small farme
 {% endhint %}
 
 [![](http://img.youtube.com/vi/wlR1ojoiue0/0.jpg)](http://www.youtube.com/watch?v=wlR1ojoiue0)
+
